@@ -2,7 +2,6 @@ if exists("b:current_syntax")
   finish
 endif
 
-syntax keyword pollenIdentifiers FFT
 syntax match pollenIdentifiers "\v◊[^{\[\(]*"
 syntax match pollenDelimiters "\v[\{\}\[\]\(\)]"
 syntax match pollenLang "\v^#.*$"
