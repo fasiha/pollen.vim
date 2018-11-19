@@ -1,3 +1,5 @@
+***N.B.*** This is a *very* minimal plugin for Pollen highlighting! A much better option is Juel Dueck's [`vim-pollen`](https://github.com/otherjoel/vim-pollen). Install that!
+
 <img width="711" alt="pollen.vim" src="https://cloud.githubusercontent.com/assets/37649/9675651/6fb14e46-528e-11e5-855a-0e3a4f2c0afd.png">
 
 A tentative Vim plugin for highlighting [Pollen](http://pollenpub.com/) markup that I made because it was too embarrassing to take screenshots of Pollen source versus rendered result without some kind of highlighting, however simple.
