@@ -1,4 +1,4 @@
-***N.B.*** This is a *very* minimal plugin for Pollen highlighting! A much better option is Juel Dueck's [`vim-pollen`](https://github.com/otherjoel/vim-pollen). Install that!
+***N.B.*** This is a *very* minimal plugin for Pollen highlighting! A much better option is Joel Dueck's [`vim-pollen`](https://github.com/otherjoel/vim-pollen). Install that!
 
 <img width="711" alt="pollen.vim" src="https://cloud.githubusercontent.com/assets/37649/9675651/6fb14e46-528e-11e5-855a-0e3a4f2c0afd.png">
 
